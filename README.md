@@ -33,8 +33,5 @@ Welcome to my GitHub profile! I'm a front-end developer specializing in ReactJS 
 
 ![Grzechu439's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Grzechu439&theme=onedark)
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grzechu439&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project. 😊
