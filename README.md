@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a front-end developer specializing in ReactJS 
 - 👯 I’m looking to collaborate on open-source projects related to front-end development
 - 💬 Ask me about React, TypeScript, Vite, Vue, and JavaScript
 - 📫 How to reach me: Discord - grzechu334
-- ⚡ Fun fact: [Something Interesting About You]
 
 ## 🛠️ Languages and Tools
 
