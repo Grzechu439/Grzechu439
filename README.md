@@ -1,13 +1,13 @@
 # Hi there, I'm Grzechu439! 👋
 
-Welcome to my GitHub profile! I'm a front-end developer specializing in ReactJS with TypeScript. I enjoy building modern web applications using the latest technologies.
+Welcome to my GitHub profile! I'm a full stack FiveM developer specializing in ReactJS with TypeScript and Lua. I enjoy building modern web applications and developing for FiveM servers using the latest technologies.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at BojówkaRP
+- 🔭 I’m currently working on the FiveM server NotRP
 - 🌱 I’m currently exploring advanced features of React and TypeScript
 - 👯 I’m looking to collaborate on open-source projects related to front-end development
-- 💬 Ask me about React, TypeScript, Vite, Vue, and JavaScript
+- 💬 Ask me about React, TypeScript, Vite, Vue, JavaScript, and Lua
 - 📫 How to reach me: Discord - grzechu334
 
 ## 🛠️ Languages and Tools
@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a front-end developer specializing in ReactJS 
 - **Languages:** 
   - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 - **Frameworks and Libraries:**
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
