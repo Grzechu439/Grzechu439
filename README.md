@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a full stack FiveM developer specializing in R
 
 - 🔭 I’m currently working on the FiveM server NotRP
 - 🌱 I’m currently exploring advanced features of React and TypeScript
-- 👯 I’m looking to collaborate on open-source projects related to front-end development
 - 💬 Ask me about React, TypeScript, Vite, Vue, JavaScript, and Lua
 - 📫 How to reach me: Discord - grzechu334
 
