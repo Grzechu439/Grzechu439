@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a full stack FiveM developer specializing in R
 
 - 🔭 I’m currently working on the FiveM server NotRP
 - 🌱 I’m currently exploring advanced features of React and TypeScript
-- 💬 Ask me about React, TypeScript, Vite, Vue, JavaScript, and Lua
+- 💬 Ask me about React, TypeScript, Vite, JavaScript, and Lua
 - 📫 How to reach me: Discord - grzechu334
 
 ## 🛠️ Languages and Tools
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a full stack FiveM developer specializing in R
 
 - **Frameworks and Libraries:**
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  - ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 - **Tools:**
   - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
